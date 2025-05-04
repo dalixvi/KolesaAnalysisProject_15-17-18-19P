@@ -59,7 +59,7 @@ jupyter notebook
     /src/final_project.ipynb
     ```
 3. Run the notebook cells in sequence:
-    - Load the dataset from `/data/kolesa_dataset.xlsx`
+    - Load the dataset from `/data/kolesa_dataset.csv`
     - Clean and preprocess the data
     - Perform analysis (e.g., filtering, grouping, aggregation)
     - Visualize key insights
@@ -68,7 +68,7 @@ jupyter notebook
     - Most frequently listed car models
     - Listings by region
     - Histograms, pie charts, and boxplots
-> Make sure that the path to the dataset is correctly referenced in the notebook (e.g., `../data/kolesa_dataset.xlsx` if opened from `/src`).
+> Make sure that the path to the dataset is correctly referenced in the notebook (e.g., `../data/kolesa_dataset.csv` if opened from `/src`).
 
 ## Testing
 This project focuses on data analysis, so testing is done manually by checking notebook outputs and graphs.
