@@ -80,8 +80,8 @@ This project focuses on data analysis, so testing is done manually by checking n
 - StackOverflow and Kaggle for analysis inspirations
 
 ## Team Members
-- Sauatbek Zhanserik 220103332
-- Aktureyev Orazali 220103173
-- Zharylkassynov Galymbek 220103251
-- Abzalbek Mukhamedali 220103209
-- Kantore Arman 220103282
+- Sauatbek Zhanserik 220103332 15-P
+- Aktureyev Orazali 220103173 17-P
+- Zharylkassynov Galymbek 220103251 15-P
+- Abzalbek Mukhamedali 220103209 18-P
+- Kantore Arman 220103282 19-P
